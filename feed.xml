@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://127.0.0.1:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://127.0.0.1:4000/" rel="alternate" type="text/html" /><updated>2024-04-19T14:49:26-04:00</updated><id>http://127.0.0.1:4000/feed.xml</id><title type="html">My Ramblings</title><subtitle>Musings of a Husband, Dad, and technologist in higher education.</subtitle><author><name>David Shettler</name></author><entry><title type="html">ChatGPT Made my Vegan Lunch…and Dinner and Breakfast for a Week</title><link href="http://127.0.0.1:4000/ai/personal-transformation/2024/04/18/chatgpt-vegan-diet.html" rel="alternate" type="text/html" title="ChatGPT Made my Vegan Lunch…and Dinner and Breakfast for a Week" /><published>2024-04-18T19:28:54-04:00</published><updated>2024-04-18T19:28:54-04:00</updated><id>http://127.0.0.1:4000/ai/personal-transformation/2024/04/18/chatgpt-vegan-diet</id><content type="html" xml:base="http://127.0.0.1:4000/ai/personal-transformation/2024/04/18/chatgpt-vegan-diet.html"><![CDATA[<h1 id="the-tldf">The TL;DF</h1>
+
+<p>We jokingly asked ChatGPT for advice on going vegan, and decided to run with it. It planned our meals for the week, and our grocery list to cook those meals…and they were really darned good.</p>
+
+<h1 id="the-hook">The Hook</h1>
+
+<p>As is often the case in our family, we’re changing behavior based off of a documentary (yes, we’re easily influenced by high production and shiny new concepts.) For grins, I fired-up my sidekick these days, ChatGPT, and prompted GPT-4 the following:</p>
+
+<blockquote class="bq-prompt">
+  <p>My wife and I want to go vegan. I want two lunch meal prep recipes, one for me, one for me wife. I have basically no restrictions, I’ll eat anything, but she doesn’t like tomatoes, peppers  (of any kind), anything spicy, and no onions (she’ll eat green onions in moderation though). These recipes should produce enough for 6 servings for 2 people and should be stable enough to last 7 days in the fridge. The foods should be whole and minimally processed. Make me those recipes and a grocery list to buy food for them.</p>
+</blockquote>
+
+<p>The prescription was as follows:</p>
+
+<blockquote>
+  <h2 id="1-vegan-lentil-salad-for-you">1. Vegan Lentil Salad (For You)</h2>
+  <h3 id="ingredients">Ingredients:</h3>
+
+  <ul>
+    <li>1.5 cups brown or green lentils</li>
+    <li>1 large cucumber, diced</li>
+    <li>1 red onion, finely chopped (omit for your wife)</li>
+    <li>3 large carrots, shredded</li>
+    <li>1/2 cup chopped walnuts</li>
+    <li>1/4 cup dried cranberries</li>
+    <li>1/4 cup fresh parsley, finely chopped</li>
+    <li>Juice of 1 lemon</li>
+    <li>3 tablespoons olive oil</li>
+    <li>Salt and black pepper to taste</li>
+  </ul>
+
+  <h3 id="instructions">Instructions:</h3>
+
+  <ol>
+    <li>Rinse the lentils and cook in 3 cups of water until tender, about 20-25 minutes. Drain well and let cool.</li>
+    <li>In a large bowl, combine cooled lentils, cucumber, carrots, walnuts, dried cranberries, and parsley.</li>
+    <li>In a small bowl, whisk together lemon juice, olive oil, salt, and pepper.</li>
+    <li>Pour the dressing over the lentil mixture and toss to combine.</li>
+    <li>Divide into containers, adding red onion to your servings only.</li>
+  </ol>
+
+  <h2 id="2-tofu-and-broccoli-stir-fry-for-your-wife">2. Tofu and Broccoli Stir-Fry (For Your Wife)</h2>
+  <h3 id="ingredients-1">Ingredients:</h3>
+
+  <ul>
+    <li>14 oz firm tofu, pressed and cubed</li>
+    <li>1 large head of broccoli, cut into florets</li>
+    <li>2 carrots, sliced</li>
+    <li>1/4 cup green onions, sliced</li>
+    <li>2 cloves garlic, minced</li>
+    <li>2 tablespoons soy sauce (or tamari for gluten-free)</li>
+    <li>2 tablespoons sesame oil</li>
+    <li>1 tablespoon rice vinegar</li>
+    <li>1 teaspoon maple syrup</li>
+    <li>1 tablespoon sesame seeds
+      <h3 id="instructions-1">Instructions:</h3>
+    </li>
+  </ul>
+
+  <ol>
+    <li>In a large pan or wok, heat 1 tablespoon sesame oil over medium-high heat. Add tofu cubes and stir-fry until golden brown on all sides, about 10 minutes. Remove &gt;tofu and set aside.</li>
+    <li>In the same pan, add another tablespoon of sesame oil. Add broccoli and carrots, stir-frying until vegetables are tender but still crisp, about 5 minutes.</li>
+    <li>Add the garlic and green onions, stir-frying for another minute.</li>
+    <li>In a small bowl, mix soy sauce, rice vinegar, maple syrup, and pour over the vegetables. Return tofu to the pan, stir to combine and heat through.</li>
+    <li>Sprinkle with sesame seeds before dividing into containers.</li>
+  </ol>
+
+  <h2 id="grocery-list-for-lunch-meal-prep-recipes">Grocery List for Lunch Meal Prep Recipes</h2>
+
+  <h3 id="lentil-salad-ingredients">Lentil Salad Ingredients:</h3>
+
+  <ul>
+    <li>Brown or green lentils (1.5 cups)</li>
+    <li>Large cucumber</li>
+    <li>Red onion (optional for your servings)</li>
+    <li>Large carrots (3)</li>
+    <li>Walnuts (1/2 cup)</li>
+    <li>Dried cranberries (1/4 cup)</li>
+    <li>Fresh parsley (1/4 cup)</li>
+    <li>Lemon</li>
+    <li>Olive oil</li>
+    <li>Salt and black pepper</li>
+  </ul>
+
+  <h3 id="tofu-and-broccoli-stir-fry-ingredients">Tofu and Broccoli Stir-Fry Ingredients:</h3>
+
+  <ul>
+    <li>Firm tofu (14 oz)</li>
+    <li>Large head of broccoli</li>
+    <li>Carrots (2)</li>
+    <li>Green onions (1/4 cup)</li>
+    <li>Garlic (2 cloves)</li>
+    <li>Soy sauce or tamari (2 tablespoons)</li>
+    <li>Sesame oil (2 tablespoons)</li>
+    <li>Rice vinegar (1 tablespoon)</li>
+    <li>Maple syrup (1 teaspoon)</li>
+    <li>Sesame seeds (1 tablespoon)</li>
+  </ul>
+</blockquote>
+
+<h1 id="the-revelation---and-breakfast">The Revelation - And Breakfast</h1>
+<p>Wow…I wasn’t sure what to expect but, reading through this, this seemed like a reasonable set of recipes for meal prep lunches for the week. I was impressed. So I took it a bit further by now asking it for dinner ideas:</p>
+
+<blockquote class="bq-prompt">
+  <p>GREAT! Now, make me 3 vegan dinner recipes, easy to prepare for weeknight meals, each should serve 6 people and be delicious and healthy, made mostly of whole foods. Its actually only going to feed 3 people at a time, but I’m counting on left overs to cover subsequent meals such that these three cooked meals feed us all week for dinner. Also, get me a grocery list for those recipes.</p>
+</blockquote>
+
+<p>It prescribed the following:</p>
+
+<blockquote>
+  <h2 id="1-chickpea-coconut-curry">1. Chickpea Coconut Curry</h2>
+
+  <h3 id="ingredients-2">Ingredients:</h3>
+
+  <ul>
+    <li>2 cans of chickpeas, drained and rinsed</li>
+    <li>1 can of coconut milk</li>
+    <li>1 large sweet potato, cubed</li>
+    <li>1 large carrot, sliced</li>
+    <li>1 head of cauliflower, cut into florets</li>
+    <li>1 large spinach bunch, roughly chopped</li>
+    <li>1 onion, chopped (omit for your wife, or substitute with additional green onions)</li>
+    <li>2 cloves garlic, minced</li>
+    <li>2 tablespoons curry powder</li>
+    <li>1 teaspoon turmeric</li>
+    <li>1 teaspoon cumin</li>
+    <li>Salt and pepper to taste</li>
+    <li>2 tablespoons olive oil</li>
+    <li>Rice or naan bread for serving</li>
+  </ul>
+
+  <h3 id="instructions-2">Instructions:</h3>
+
+  <ol>
+    <li>Heat the olive oil in a large pot over medium heat. Add onion and garlic (omit onion for your wife), sauté until fragrant.</li>
+    <li>Add sweet potato, carrot, and spices. Cook for about 5 minutes.</li>
+    <li>Add chickpeas, coconut milk, and cauliflower. Bring to a simmer, cover, and cook for about 15-20 minutes until vegetables are tender.</li>
+    <li>Stir in the spinach until wilted.</li>
+    <li>Serve over rice or with naan.</li>
+  </ol>
+
+  <h2 id="2-vegan-shepherds-pie">2. Vegan Shepherds Pie</h2>
+
+  <h3 id="ingredients-3">Ingredients:</h3>
+
+  <ul>
+    <li>2 lbs potatoes, peeled and cubed</li>
+    <li>1/4 cup almond milk</li>
+    <li>2 tablespoons vegan butter</li>
+    <li>1 cup green lentils</li>
+    <li>1 carrot, diced</li>
+    <li>1 celery stalk, diced</li>
+    <li>1 cup frozen peas</li>
+    <li>1 onion, chopped (omit for your wife)</li>
+    <li>2 cloves garlic, minced</li>
+    <li>1 tablespoon olive oil</li>
+    <li>2 tablespoons tomato paste (can be substituted with vegan Worcestershire sauce)</li>
+    <li>1 teaspoon thyme</li>
+    <li>Salt and pepper to taste</li>
+  </ul>
+
+  <h3 id="instructions-3">Instructions:</h3>
+
+  <ol>
+    <li>Boil the potatoes until tender. Mash with almond milk and vegan butter, season with salt and pepper. Set aside.</li>
+    <li>Cook lentils in water until tender, about 20 minutes; drain.</li>
+    <li>Heat olive oil in a pan. Add carrot, celery, onion (if using), and garlic. Cook until softened.</li>
+    <li>Add cooked lentils, peas, tomato paste, thyme, and season. Stir to combine and cook for another 5 minutes.</li>
+    <li>Transfer the lentil mixture to a baking dish. Top with mashed potatoes.</li>
+    <li>Bake at 400°F for 20 minutes until the top is golden.</li>
+    <li>Let cool slightly before serving.</li>
+  </ol>
+
+  <h2 id="3-roasted-vegetable-and-quinoa-salad">3. Roasted Vegetable and Quinoa Salad</h2>
+
+  <h3 id="ingredients-4">Ingredients:</h3>
+
+  <ul>
+    <li>2 cups quinoa</li>
+    <li>1 zucchini, sliced</li>
+    <li>1 red bell pepper, sliced (omit for your wife)</li>
+    <li>1 yellow squash, sliced</li>
+    <li>1 red onion, sliced (omit for your wife)</li>
+    <li>2 tablespoons olive oil</li>
+    <li>1 lemon, juiced</li>
+    <li>1/4 cup chopped fresh parsley</li>
+    <li>Salt and pepper to taste</li>
+  </ul>
+
+  <h3 id="instructions-4">Instructions:</h3>
+
+  <ol>
+    <li>Cook quinoa according to package instructions.</li>
+    <li>Toss zucchini, squash, bell pepper, and onion (if using) with olive oil, salt, and pepper. Roast in the oven at 425°F for about 20-25 minutes until tender and slightly &gt;charred.</li>
+    <li>Combine roasted vegetables with quinoa, add lemon juice and parsley. Toss everything together.</li>
+    <li>Serve warm or at room temperature.</li>
+  </ol>
+
+  <h2 id="grocery-list-for-dinner-recipes">Grocery List for Dinner Recipes</h2>
+  <ul>
+    <li>Chickpeas (4 cans)</li>
+    <li>Coconut milk (1 can)</li>
+    <li>Sweet potatoes (1 large)</li>
+    <li>Carrots (2 large)</li>
+    <li>Cauliflower (1 large head)</li>
+    <li>Spinach (1 large bunch)</li>
+    <li>Onions (2 large, optional)</li>
+    <li>Garlic (6 cloves)</li>
+    <li>Curry powder, turmeric, cumin</li>
+    <li>Olive oil</li>
+    <li>Rice or naan bread</li>
+    <li>Potatoes (2 lbs)</li>
+    <li>Almond milk</li>
+    <li>Vegan butter</li>
+    <li>Green lentils (1 cup)</li>
+    <li>Celery (1 stalk)</li>
+    <li>Frozen peas (1 cup)</li>
+    <li>Tomato paste or vegan Worcestershire sauce</li>
+    <li>Thyme</li>
+    <li>Quinoa (2 cups)</li>
+    <li>Zucchini (1)</li>
+    <li>Red bell pepper (1, optional)</li>
+    <li>Yellow squash (1)</li>
+    <li>Lemon (1)</li>
+    <li>Fresh parsley</li>
+  </ul>
+</blockquote>
+
+<h1 id="yeah-we-can-eat-that-and-not-to-ignore-that-very-first-meal">Yeah, we can eat that. And not to ignore that very first meal:</h1>
+
+<blockquote class="bq-prompt">
+  <p>amazing. now I need a breakfast option for each day, vegan as well, made of whole foods. It should be easy and quick to prepare for busy folks like us. I need 6 days worth feeding 3 people each day. One or two recipes is likely fine. Also get me a grocery list.</p>
+</blockquote>
+
+<blockquote>
+  <h2 id="1-chia-pudding-with-mixed-berries">1. Chia Pudding with Mixed Berries</h2>
+
+  <h3 id="ingredients-5">Ingredients:</h3>
+
+  <ul>
+    <li>1 cup chia seeds</li>
+    <li>4 cups unsweetened almond milk</li>
+    <li>2 tablespoons maple syrup (optional, adjust to taste)</li>
+    <li>1 teaspoon vanilla extract</li>
+    <li>2 cups mixed berries (fresh or frozen)</li>
+    <li>A few mint leaves for garnish (optional)</li>
+  </ul>
+
+  <p>###Instructions:</p>
+
+  <ol>
+    <li>In a large bowl, mix chia seeds, almond milk, maple syrup, and vanilla extract. Stir well until combined.</li>
+    <li>Cover and refrigerate overnight or for at least 6 hours. The chia seeds will absorb the liquid and turn into a pudding-like texture.</li>
+    <li>Serve the pudding with a layer of mixed berries on top and a garnish of mint leaves if using.</li>
+  </ol>
+
+  <h2 id="2-overnight-oats-with-banana-and-peanut-butter">2. Overnight Oats with Banana and Peanut Butter</h2>
+
+  <h3 id="ingredients-6">Ingredients:</h3>
+
+  <ul>
+    <li>3 cups rolled oats</li>
+    <li>6 cups unsweetened almond milk</li>
+    <li>3 bananas, sliced</li>
+    <li>6 tablespoons peanut butter</li>
+    <li>3 tablespoons ground flaxseeds</li>
+    <li>3 tablespoons maple syrup (optional)</li>
+  </ul>
+
+  <h3 id="instructions-5">Instructions:</h3>
+
+  <ol>
+    <li>In mason jars or bowls, layer the rolled oats, almond milk, peanut butter, and sliced bananas.</li>
+    <li>Add a sprinkle of ground flaxseeds and a drizzle of maple syrup if desired.</li>
+    <li>Stir slightly to mix the ingredients in each jar.</li>
+    <li>Cover and refrigerate overnight.</li>
+    <li>In the morning, give them a good stir and enjoy cold or warmed up.</li>
+  </ol>
+
+  <h2 id="grocery-list-for-breakfast-recipes">Grocery List for Breakfast Recipes</h2>
+
+  <ul>
+    <li>Chia seeds (1 cup)</li>
+    <li>Unsweetened almond milk (10 cups; both recipes combined)</li>
+    <li>Maple syrup</li>
+    <li>Vanilla extract</li>
+    <li>Mixed berries (4 cups; can use frozen)</li>
+    <li>Mint leaves (optional)</li>
+    <li>Rolled oats (3 cups)</li>
+    <li>Bananas (6 medium)</li>
+    <li>Peanut butter (6 tablespoons)</li>
+    <li>Ground flaxseeds (3 tablespoons)</li>
+  </ul>
+</blockquote>
+
+<h1 id="and-now-to-round-it-out">And now, to round it out…</h1>
+
+<blockquote class="bq-prompt">
+  <p>OK, help me now consolidate this grocery lists for all of the recipes you’ve given so far (there are duplicated items, etc., so combine all these, adding them up so I have a single list to go through, and try to organize it into section of the grocery store.</p>
+</blockquote>
+
+<blockquote>
+  <h2 id="produce">Produce</h2>
+  <ul>
+    <li>Bananas: 6 medium</li>
+    <li>Carrots: 5 large</li>
+    <li>Cauliflower: 1 large head</li>
+    <li>Celery: 1 stalk</li>
+    <li>Cucumber: 1 large</li>
+    <li>Garlic: 8 cloves</li>
+    <li>Lemon: 2</li>
+    <li>Mixed berries: 4 cups (can use frozen)</li>
+    <li>Onions: 2 large (optional)</li>
+    <li>Potatoes: 2 lbs</li>
+    <li>Red onion: 1 (optional)</li>
+    <li>Spinach: 1 large bunch</li>
+    <li>Sweet potatoes: 1 large</li>
+    <li>Zucchini: 1</li>
+    <li>Yellow squash: 1</li>
+    <li>Red bell pepper: 1 (optional)</li>
+    <li>Broccoli: 1 large head</li>
+    <li>Mint leaves: optional</li>
+    <li>Fresh parsley: enough for 1/2 cup chopped</li>
+  </ul>
+
+  <h2 id="grains--bakery">Grains &amp; Bakery</h2>
+  <ul>
+    <li>Rolled oats: 3 cups</li>
+    <li>Quinoa: 2 cups</li>
+    <li>Rice or naan bread: as needed</li>
+  </ul>
+
+  <h2 id="canned-goods--jars">Canned Goods &amp; Jars</h2>
+  <ul>
+    <li>Chickpeas: 4 cans</li>
+    <li>Coconut milk: 1 can</li>
+    <li>Tomato paste or vegan Worcestershire sauce: as needed</li>
+  </ul>
+
+  <h1 id="refrigerated--dairy-alternatives">Refrigerated &amp; Dairy Alternatives</h1>
+  <ul>
+    <li>Firm tofu: 14 oz</li>
+    <li>Vegan butter: as needed</li>
+  </ul>
+
+  <h1 id="frozen-foods">Frozen Foods</h1>
+  <ul>
+    <li>Frozen peas: 1 cup</li>
+    <li>Frozen mixed berries: optional, if not using fresh</li>
+  </ul>
+
+  <h1 id="pantry-staples">Pantry Staples</h1>
+  <ul>
+    <li>Almond milk: approx. 13 cups (including extra for oatmeal and coffee)</li>
+    <li>Chia seeds: 1 cup</li>
+    <li>Dried cranberries: 1/4 cup</li>
+    <li>Ground flaxseeds: 3 tablespoons</li>
+    <li>Maple syrup: as needed</li>
+    <li>Olive oil: as needed</li>
+    <li>Peanut butter: 6 tablespoons</li>
+    <li>Sesame seeds: 1 tablespoon</li>
+    <li>Walnuts: 1/2 cup</li>
+    <li>Spices &amp; Seasonings</li>
+    <li>Black pepper: as needed</li>
+    <li>Curry powder, turmeric, cumin: as needed</li>
+    <li>Salt: as needed</li>
+    <li>Sesame oil: 2 tablespoons</li>
+    <li>Soy sauce or tamari: 2 tablespoons</li>
+    <li>Thyme: as needed</li>
+    <li>Vanilla extract: as needed</li>
+    <li>Rice vinegar: 1 tablespoon</li>
+  </ul>
+
+  <h1 id="pulses--seeds">Pulses &amp; Seeds</h1>
+  <ul>
+    <li>Brown or green lentils: 1.5 cups</li>
+    <li>Green lentils: 1 cup</li>
+  </ul>
+</blockquote>
+
+<h1 id="motivation">Motivation</h1>
+<p>Well there it was, all laid out for me. I went straight to the grocery, and so it began. $175 dollars in groceries later, we were cooking, literally. And the verdict? Every meal, every single meal, was delicious.</p>
+
+<figure class="half ">
+  
+    
+      <a href="/assets/images/chia_pudding.jpg" title="Breakfast Vegan Chia Pudding">
+          <img src="/assets/images/chia_pudding.jpg" alt="Breakfast Vegan Chia Pudding" />
+      </a>
+    
+  
+    
+      <a href="/assets/images/overnight_oats_banana_peanutbutter.jpg" title="Breakfast Overnight Oats with Banana and Peanut Butter">
+          <img src="/assets/images/overnight_oats_banana_peanutbutter.jpg" alt="Breakfast Overnight Oats with Banana and Peanut Butter" />
+      </a>
+    
+  
+    
+      <a href="/assets/images/chickpea_coconut_curry.jpg" title="Dinner - Chickpea Coconut Curry">
+          <img src="/assets/images/chickpea_coconut_curry.jpg" alt="Dinner - Chickpea Coconut Curry" />
+      </a>
+    
+  
+    
+      <a href="/assets/images/vegan_shepherds_pie.jpg" title="Dinner - Vegan Shepherd's Pie">
+          <img src="/assets/images/vegan_shepherds_pie.jpg" alt="Dinner - Vegan Shepherd's Pie" />
+      </a>
+    
+  
+  
+    <figcaption>The recipie outcomes
+</figcaption>
+  
+</figure>]]></content><author><name>David Shettler</name></author><category term="ai" /><category term="personal-transformation" /><summary type="html"><![CDATA[On a whim, I discovered a strange motivator for a new diet.]]></summary></entry></feed>
