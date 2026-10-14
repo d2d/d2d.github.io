@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shettler.name/sitemap.xml
